@@ -1,0 +1,3 @@
+BROADCAST_IP = "172.31.255.255"
+UDP_PORT = 9876
+PEER_ID = "s-husak2-2"
